@@ -7,4 +7,4 @@ end
 
 rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-display_rainbow(inbow")
+display_rainbow(rainbow)
