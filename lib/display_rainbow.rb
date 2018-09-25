@@ -5,5 +5,3 @@ end
 colors = ["red, orange, yellow, green, blue, indigo, violet"]
 
 colors[0]
-
-def display_rainbow(colors)
