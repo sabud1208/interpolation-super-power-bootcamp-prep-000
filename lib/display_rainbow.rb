@@ -7,4 +7,4 @@ end
 
 rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-puts display_rainbow(rainbow)
+display_rainbow(rainbow)
